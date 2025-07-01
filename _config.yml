@@ -34,8 +34,8 @@ twitter_username: BasavaprabhuAni
 github_username:  basavaprabhuani
 
 # Build settings
-# theme: jekyll-theme-architect
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
+
 
 plugins:
   - jekyll-feed

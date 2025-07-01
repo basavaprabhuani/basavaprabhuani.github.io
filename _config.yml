@@ -34,12 +34,12 @@ twitter_username: BasavaprabhuAni
 github_username:  basavaprabhuani
 
 # Build settings
-theme: minima
-
-
+#DEFAULT THEME DONT MESS WITH THIS UNLESS NECESARY#theme: minima
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+
 markdown: GFM
 # Exclude from processing.
 # The following items will not be processed, by default.

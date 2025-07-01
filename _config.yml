@@ -34,9 +34,12 @@ twitter_username: BasavaprabhuAni
 github_username:  basavaprabhuani
 
 # Build settings
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 markdown: GFM
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -15,7 +15,8 @@
     
 -    _site and .gitignore: 
 +        DON'T MESS WITH THESE FILES, THESE CANNOT BE CONTROLLED 
-    
+
+ 
 !Commands of GitBash: 
 -    cd {insert/file/location/here}:
 +        Takes control/performs commands on the files of folder opened using the cd command. 
@@ -25,11 +26,4 @@
         
 -    pwd -W:
 +        Prints out the directory of the current folder it is working in. 
-
-    
-!xx
--yy
-+zz
-
-
 

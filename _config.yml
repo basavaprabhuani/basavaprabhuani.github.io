@@ -41,11 +41,10 @@ aboutme_folded: >
 
 # New variable created (aboutme_foled, and aboutme_literal)👆 --> For Testing 
 
-description: |
-  "This is where creativity meets curiosity. Here, you'll find a showcase of my personal projects, coding experiments, and a growing collection of science articles that break down complex ideas into simple, exciting reads. Whether I’m building a new app, exploring physics concepts, or sharing thoughts on the universe, this site reflects my passion for both technology and discovery."
+description: 
+  - {aboutme_folded} #Original Description File 
+  - {aboutme_literal} #New Description File (Not tested yet)
 
-#  - {aboutme_folded} #Original Description File 
-# - {aboutme_literal} #New Description File (Not tested yet)
 #description_literal: {aboutme_literal} #New Description File (Not tested yet)
 
 ### CHANGED TILL HERE 
@@ -57,7 +56,6 @@ github_username:  basavaprabhuani
 
 # Build settings
 theme: minima
-#remote_theme: pages-themes/architect@v0.2.0
 
 plugins:
 - jekyll-feed

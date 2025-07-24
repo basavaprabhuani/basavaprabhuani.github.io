@@ -21,33 +21,8 @@
 title: Basavaprabhu's Portfolio and Science Blog
 email: basavaprabhu.ani@gmail.com
 
-###Change Starts here
-
-aboutme_literal: | 
-  🧪✨ Welcome to My Portfolio & Science Blog
-  "This is where creativity meets curiosity. Here, you'll find a showcase of my personal projects, coding experiments, and a growing collection of science articles that break down complex ideas into simple, exciting reads. Whether I’m building a new app, exploring physics concepts, or sharing thoughts on the universe, this site reflects my passion for both technology and discovery."
-
-  💼 Portfolio: Real-world projects, clean code, and creative solutions.
-  🔬 Science Blog: Thoughtful explorations of how the world works — from atoms to galaxies.
-  📚 Built to learn. Shared to inspire.
-  -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-
-aboutme_folded: >
-  My fav. Singers: Weeknd, 
-  Drake, 
-  Taylor Swift, 
-  Pitbull, 
-  Eminem, etc.
-
-# New variable created (aboutme_foled, and aboutme_literal)👆 --> For Testing 
-
-description: 
-  - {aboutme_folded} #Original Description File 
-  - {aboutme_literal} #New Description File (Not tested yet)
-
-#description_literal: {aboutme_literal} #New Description File (Not tested yet)
-
-### CHANGED TILL HERE 
+description: | 
+  © 2025 Basavaprabhu Ani
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://basavaprabhuani.github.io" # the base hostname & protocol for your site, e.g. http://example.com

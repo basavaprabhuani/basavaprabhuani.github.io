@@ -18,7 +18,7 @@ layout: home
 I’m Basavaprabhu Ani, alias experi_mentalkid (am I still a kid?) and this little corner of the internet is my way of putting all my ideas, projects, and daydreams in one place. Think of it as a digital scrapbook of what I’m learning, building, and exploring — with a healthy dash of curiosity and a spark of fun along the way.
 I like to think of 06/07/2010 as the day on which a legend (hopefully) was born; 'cuz that's when I was born 😊. 
 </P>
-<br>
+<br><br>
 <h3>About Me</h3>
 <p style="text-align: justify;">
 I spend a major part of my time (more than 60%) in academics-the usual (and boring) school, but mostly FUN Science & Math. While I find Science & Math highly entertaining, unfortunately "that's not everything in life". So, to pass my time while having fun and educating myself at the same time, I do many other things as well, which brings us to the topic of my hobbies.
@@ -64,7 +64,7 @@ That's all About Me.
 Further, in this website of mine, I will be consistently adding new stuff about things that I discover-primarily regarding Science & Math, and computer-science as well, to some extent, and you can find these posts in-you guessed it-the Posts section at the bottom of the page (A direct link to 'Posts' has been provided in the top right corner as well). I'm sure this would be a relief for my brother, 'cuz whenever I learn about something new on science and my mind blasts, I bug him like he's <i>magnetar</i> and I'm a magnetic-substance. 
 Trust me when I say that you're insanely lucky to be the READER of such a funny yet an informative blog 😉. 
 <br>
-<hr style="border: 10px; background: linear-gradient(to right, #ff7e5f, #feb47b); border: none; border-radius: 2px;">
+<hr style="border: 10px;">
 <br>
 
 

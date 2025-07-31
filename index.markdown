@@ -17,7 +17,7 @@ I like to think of 06/07/2010 as the day on which a legend (hopefully) was born;
 </P>
 <br><br>
 <hr>
-
+<br>
 <h3>About Me</h3>
 <p style="text-align: justify;">
 I spend a major part of my time (more than 60%) in academics-the usual (and boring) school, but mostly FUN Science & Math. While I find Science & Math highly entertaining, unfortunately "that's not everything in life". So, to pass my time while having fun and educating myself at the same time, I do many other things as well, which brings us to the topic of my hobbies.
@@ -58,6 +58,8 @@ That’s why I love science — because it turns the ordinary into the extraordi
 <p style="text-align: justify;">
 Not only Science, but my love for animals-all kinds, is HUUUUGEE. I remember binge-watching five series of National Geographic shows of animals the whole day, and realizing it was time to sleep after 10 hours, but it felt like a heartbeat. I have always been fascinated by the unimaginable methods that animals have adapted to survive. There's all kinds of animals, and they come in all colours. Sometimes, I just think of the havoc humans have wreaked on nature and the misery WE have caused to innocent, shy creatures who mean no harm to anyone, except for their prey, of course. It is cruel of us to eat away all the resources nature has provided to ALL THE ANIMALS, and NOT JUST HUMANS. In the name of development, we never thought of the misery we would cause to development. But surprisingly, everyone seems to have woken up regarding this matter after all the damage has been done. 
 </p><br>
+<hr>
+<br>
 <h3>My Aim</h3>
 <p style="text-align: justify;">Here comes the most important part of this whole blog - MY AIM (mind it, not a 'dream' but an AIM). 
 I aspire to become a phycisist, because I have been fascinated by the astonishing, yet logical and systematic, reasons for various phenomena in the universe, like why the Earth goes around the sun, why doesn't a person on the south-pole fall down into the vast universe (which is kinda silly, but still thought-provoking), and why the sky is never blue at the time of sunset or sunrise. 
@@ -69,7 +71,7 @@ That's all About Me.
 <br>
 Further, in this website of mine, I will be consistently adding new stuff about things that I discover-primarily regarding Science & Math, and computer-science as well, to some extent, and you can find these posts in-you guessed it-the Posts section at the bottom of the page (A direct link to 'Posts' has been provided in the top right corner as well). I'm sure this would be a relief for my brother, 'cuz whenever I learn about something new on science and my mind blasts, I bug him like he's <i>magnetar</i> and I'm a magnetic-substance. 
 Trust me when I say that you're insanely lucky to be the READER of such a funny yet an informative blog 😉. 
-<br>
+<br><br>
 <hr>
 <br>
 

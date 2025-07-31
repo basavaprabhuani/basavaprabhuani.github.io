@@ -10,19 +10,19 @@ layout: home
 ---
 
 <h3>Hey there!!!</h3>
-
-<p style="text-align: justify;">
-
 <img src="media/DP.png" alt="My Photo" style="float: left; width: 200px; margin-right: 20px;">
-
+<p style="text-align: justify;">
 I’m Basavaprabhu Ani, alias experi_mentalkid (am I still a kid?) and this little corner of the internet is my way of putting all my ideas, projects, and daydreams in one place. Think of it as a digital scrapbook of what I’m learning, building, and exploring — with a healthy dash of curiosity and a spark of fun along the way.
 I like to think of 06/07/2010 as the day on which a legend (hopefully) was born; 'cuz that's when I was born 😊. 
 </P>
 <br><br>
+<hr style="border: 10px;">
+
 <h3>About Me</h3>
 <p style="text-align: justify;">
 I spend a major part of my time (more than 60%) in academics-the usual (and boring) school, but mostly FUN Science & Math. While I find Science & Math highly entertaining, unfortunately "that's not everything in life". So, to pass my time while having fun and educating myself at the same time, I do many other things as well, which brings us to the topic of my hobbies.
-
+</p>
+<p style="text-align: justify;">
 Doing many activities are enjoyed by me - Coding, watching movies & playing games (but then again, who doesn't enjoy this), digging up for the reasons for many natural phenomena within the body and the universe to quench my curiosity, to name a few. I learnt how to code (in python) when I was of age 11, primarily because I had seen my brother, <a href="https://www.linkedin.com/in/allamaprabhu-ani/">Allamaprabhu Ani</a>, using VBA, another coding language, to automate some tedious tasks of mine which I had to do as a part of my academics on the computer (like writing down the meanings of new words I come across in my textbooks in excel). Events like these ignited my curiosity into learning how to code and implement that knowledge into automating my own tedious tasks of day-to-day life on the computer (FYI I have also attached my own version of the program mentioned above, which I had written using Python, on GitHub). Though I haven't really written many programs to serve the aforementioned purpose, I have certainly written programs as a pass-time. Programming has genuinely enhanced my logically-thinking skills as, one has to use one's brain to write a program. <br>
 Coming to my less-important hobbies, i.e., watching movies and playing games, I love action movies but mostly sci-fi ones like Iron Man, Interstellar or any other movies which could be the potential future of Humanity and the Earth. For action movies, my go-to would be anything similar to John Wick. But mostly, I focus on watching either Sci-Fi (which cover up for 60% of the movies I watch), or humorous ones. And oh! how could I forget!? YOUNG SHELDON. I kinda feel both him and I are the same, but neither am I insanely condescending nor am I as knowledgable (mind me, 'knowledgable', not smart) as him. <br>
 I have developed a keen interest on the Youtube Channel <a href = "https://www.youtube.com/startalk"><i>StarTalk</i></a>, starring Neil DeGrasse Tyson, who humorously explains concepts explaining phenomena in nature. I love the way he does infotainment-he is way too humorous, and way too informative at the same time. 
@@ -37,16 +37,22 @@ Not only music of mine, but I do love pop music of my favourite artists - Taylor
 </p>
 <br>
 <h3>My Love for Science</h3>
-<p style="text-align: justify;">I insanely adore science, because for everything occurring in nature, there is a definite pattern and a reason for why something happens. Nothing is 'unpredictable', but ironically, such is nature. There is nothing 'mysterious' — and even if there is, it isn’t magic or something unexplainable.
-
+<p style="text-align: justify;">
+I insanely adore science, because for everything occurring in nature, there is a definite pattern and a reason for why something happens. Nothing is 'unpredictable', but ironically, such is nature. There is nothing 'mysterious' — and even if there is, it isn’t magic or something unexplainable.
+</p>
+<p style="text-align: justify;">
 Science shows me that behind every mystery lies an answer waiting to be found — hidden in data, experiments, and the patient eyes of those who dare to look closer. It teaches me that the universe doesn’t work on whims or miracles but on rules and patterns, written in the language of physics, chemistry, biology, and math.
-
+</p>
+<p style="text-align: justify;">
 I love how science doesn’t just give me facts to memorize — it gives me ways to think. It tells me to question what I see, test what I believe, and stay curious even when the answers are far away. It humbles me, too, because no matter how much we know, there is always more we don’t.
-
+</p>
+<p style="text-align: justify;">
 It’s comforting to me that the same laws that keep planets in orbit also hold together the atoms in my body. That the chaotic swirl of weather patterns still follows equations. That even the randomness of life has rules buried deep inside it, waiting to be discovered by someone brave enough to ask “why?” one more time.
-
+</p>
+<p style="text-align: justify;">
 To me, loving science means loving the endless adventure of learning. It means accepting that mistakes and failures aren’t dead ends but stepping stones to deeper understanding. It means believing that the universe wants to be understood — and that we, with our tiny sparks of curiosity, have the power to understand it.
-
+</p>
+<p style="text-align: justify;">
 That’s why I love science — because it turns the ordinary into the extraordinary and the impossible into the inevitable. Because it reminds me that mystery isn’t the absence of knowledge — it’s the promise of discovery.
 </p>
 <p style="text-align: justify;">

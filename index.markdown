@@ -8,17 +8,6 @@
 
 layout: home
 ---
-<style>
-p {
-    font-family: 'Lucida Handwriting', cursive;
-}
-
-h1 {
-    color: #ff8b33
-}
-
-</style>
-
 <h2>Hey there!!!</h2>
 <img src="media/DP.png" alt="My Photo" style="float: left; width: 200px; margin-right: 20px;">
 <p style="text-align: justify;">

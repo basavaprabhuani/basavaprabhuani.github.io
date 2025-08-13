@@ -27,3 +27,8 @@
 -    pwd -W:
 +        Prints out the directory of the current folder it is working in. 
 
+The actual styling logic lives in root/assets/main.scss, and Jekyll automatically compiles this into _site/assets/main.css.
+So although the HTML links to /assets/main.css, the source of truth is main.scss in the root-level assets/ folder.
+
+✅ You only ever need to edit main.scss — Jekyll takes care of the rest.
+

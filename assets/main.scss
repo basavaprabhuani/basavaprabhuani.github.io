@@ -10,13 +10,14 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 p {
   margin: 0;
   padding: 0;
-  color: #d14;
+  color: rgb(10, 94, 150);
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
-  color: #d14;
+  color: rgb(10, 94, 150);
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
   margin-bottom: 0.5em;
 }
 
@@ -77,21 +78,28 @@ h1, h2, h3, h4, h5, h6 {
 
 /** Links */
 a {
-  color: #2a7ae2;
+  color: #000000;
   text-decoration: none;
+  font-style: italic;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
+
 a:visited {
-  color: #1756a9;
+  color: #000000;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 a:hover {
-  color: #111;
-  text-decoration: underline;
+  color: #073269;
+  text-decoration: none;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 .social-media-list a:hover {
   text-decoration: none;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 .social-media-list a:hover .username {
   text-decoration: underline;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
 /** Blockquotes */

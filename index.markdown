@@ -16,9 +16,7 @@ I’m Basavaprabhu Ani, alias experi_mentalkid (am I still a kid?) and this litt
 Find out more about me in the <a href="https://basavaprabhuani.github.io/aboutme">About Me</a> section! 
 
 Trust me when I say that you're insanely lucky to be the READER of such a funny yet an informative blog 😉. 
-
 </P>
-<br><br>
 <hr>
 <br>
 

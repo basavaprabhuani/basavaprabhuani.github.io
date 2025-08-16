@@ -34,7 +34,7 @@ I love how science doesn’t just give me facts to memorize — it gives me ways
 <p style="text-align: justify;">
 It’s comforting to me that the same laws that keep planets in orbit also hold together the atoms in my body. That the chaotic swirl of weather patterns still follows equations. That even the randomness of life has rules buried deep inside it, waiting to be discovered by someone brave enough to ask “why?” one more time.
 </p>
-<p>One of the things which first piqued my interest in Science, was the working of the human body. This working of the body (muscles, the nervous system, bones, etc.) had fascinated me immensely when I came across this, which was sometime during my 4th grade. Here's a fun picture of me, all riled-up to teach my home-ies (my fam, hehe) about this: <br>
+<p>One of the things which first piqued my interest in Science, was the working of the human body. This working of the body (muscles, the nervous system, bones, etc.) had fascinated me immensely when I came across this, which was sometime during my 4th grade. <br>Here's a fun picture of me, all riled-up to teach my home-ies (my fam, hehe) about this: <br>
 <figure>
     <img src="media/ppt.png"></p>
     <figcaption>Cracked at this — had to pass the wisdom to my fam 🐐</figcaption>

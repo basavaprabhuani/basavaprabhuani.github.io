@@ -38,7 +38,7 @@ It’s comforting to me that the same laws that keep planets in orbit also hold 
 <figure>
     <img src="media/ppt.png"></p>
     <figcaption>Cracked at this — had to pass the wisdom to my fam 🐐</figcaption>
-</figure>
+</figure><br>
 <p style="text-align: justify;">
 To me, loving science means loving the endless adventure of learning. It means accepting that mistakes and failures aren’t dead ends but stepping stones to deeper understanding. It means believing that the universe wants to be understood — and that we, with our tiny sparks of curiosity, have the power to understand it.
 </p>

@@ -7,10 +7,23 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-/* Global text style (except links) */
+p {
+  margin: 0;
+  padding: 0;
+  color: #d14;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  color: #d14;
+  margin-bottom: 0.5em;
+}
+
+/** Basic styling */
 body {
-  font: 400 16px/1.5 Cambria, serif;
-  color: #159fd1;
+  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -21,21 +34,6 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-}
-
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, code, li, figcaption, table, th, td, .post-meta, .footer-col-wrapper, .footer-heading, .page-heading, .post-link {
-  font-family: Cambria, serif;
-  color: #159fd1;
-}
-
-p {
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  font-weight: bold;
-  margin-bottom: 0.5em;
 }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
@@ -77,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
-/** Links — keep original colors */
+/** Links */
 a {
   color: #2a7ae2;
   text-decoration: none;
@@ -98,6 +96,7 @@ a:hover {
 
 /** Blockquotes */
 blockquote {
+  color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
@@ -169,6 +168,7 @@ table {
   margin-bottom: 30px;
   width: 100%;
   text-align: left;
+  color: #3f3f3f;
   border-collapse: collapse;
   border: 1px solid #e8e8e8;
 }
@@ -216,6 +216,7 @@ table td {
   display: none;
 }
 .site-nav .page-link {
+  color: #111;
   line-height: 1.5;
 }
 .site-nav .page-link:not(:last-child) {
@@ -284,6 +285,7 @@ table td {
 }
 .footer-col-wrapper {
   font-size: 15px;
+  color: #828282;
   margin-left: -15px;
 }
 .footer-col {
@@ -335,6 +337,7 @@ table td {
 }
 .post-meta {
   font-size: 14px;
+  color: #828282;
 }
 .post-link {
   display: block;

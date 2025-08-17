@@ -124,6 +124,10 @@ a.content-link:hover {
   border-bottom: 2px solid #828282;
 }
 
+a.content-link::after {
+  content: " 🔗";
+}
+
 /** li {
   
 }

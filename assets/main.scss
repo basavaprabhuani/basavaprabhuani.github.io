@@ -10,7 +10,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 p {
   margin: 0;
   padding: 0;
-  color: rgb(0, 0, 0);
+  color: rgb(10, 94, 150);
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
   text-align: justify;
 }
@@ -69,7 +69,7 @@ figcaption {
 /** Lists */
 ul, ol {
   margin-left: 30px;
-  color: rgb(0, 0, 0);
+  color: rgb(10, 94, 150);
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
   text-align: justify;
 }
@@ -84,23 +84,80 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /** Links */
+/**
+OLD CODe
+OLD CODe
 a {
-  color: #005baf;
+  color: #000000;
   text-decoration: none;
   font-style: normal;
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
 a:visited {
-  color: #005baf;
-  text-decoration: none;
+  color: #000000;
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 a:hover {
-  color: #005baf;
+  color: #073269;
   text-decoration: none;
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
+OLD CODE
+OLD CODE
+/** New code for animating the links behaviour: */
+/** New code for animating the links behaviour: */
+/* Base link styles */
+
+a {
+  text-decoration: none;
+  color: white; /* text stays readable */
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+/* Idle breathing gradient */
+a {
+  background: linear-gradient(90deg, #4275f5, #429bf5);
+  animation: breathing 4s ease-in-out infinite;
+}
+
+/* On hover: animated “grooving” mixture */
+a:hover {
+  background: linear-gradient(
+    270deg,
+    #00ff99,
+    #00ccff,
+    #3366ff,
+    #9933ff,
+    #ff3399,
+    #ff9933,
+    #00ff99
+  );
+  background-size: 1400% 1400%;
+  animation: flowing 8s ease infinite;
+}
+
+/* Keyframes for breathing (idle) */
+@keyframes breathing {
+  0%, 100% {
+    background: linear-gradient(90deg, #4275f5, #429bf5);
+  }
+  50% {
+    background: linear-gradient(90deg, #429bf5, #4275f5);
+  }
+}
+
+/* Keyframes for flowing (hover) */
+@keyframes flowing {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+/** CODE ENDS HERE */
+/** CODE ENDS HERE */
+
 .social-media-list a:hover {
   text-decoration: none;
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;

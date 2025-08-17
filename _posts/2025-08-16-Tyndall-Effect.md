@@ -49,7 +49,7 @@ What's more interesting, is that not all mixtures scatter light. For the path of
     <figcaption>An image summarizing conditions for paths of light</figcaption>
 </figure>
 </p><br>
-<hr>
+<hr><br>
 <p>
 So, pretty cool, huh? So, the next time you notice this phenomenon, I hope you'll remember this post 💙. I hope you enjoyed reading this and uncovering the reason why Gru blew baby powder to reveal the lasers which would have comprmoised the heist. At this point, I think the G in Gru stands for Genius. Respect+ to the villain 😎. 
 </p>

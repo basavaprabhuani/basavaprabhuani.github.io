@@ -131,9 +131,11 @@ a.content-link::after {
   content: " 🔗";
 }
 
-/** li {
-  
+li.project-links {
+  content: "";
+  margin-bottom: 15px;
 }
+
 /** End of Link section */
 
 p.rss-subscribe {

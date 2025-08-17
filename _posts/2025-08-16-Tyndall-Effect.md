@@ -6,7 +6,7 @@ categories: Science Physics
 ---
 <p>Wondering the reason for the weird title? You're not alone. Well, watch this video first:</p><br>
 <figure>
-    <video width=800 controls>
+    <video controls>
         <source src="/media/Post_TyndallEffect.mp4" type="video/mp4">
         Error with browser: Does not support video.
     </video>

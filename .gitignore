@@ -5,3 +5,5 @@ _site
 vendor
 Gemfile.lock
 tmp_drafts
+TODO_notes.md
+

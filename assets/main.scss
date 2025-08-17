@@ -83,8 +83,26 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
-/** Links */
+/** GENERAL LINKS FOR THROUGHOUT THE DOCUMENT */
 a {
+  color: #000000;
+  text-decoration: none;
+  font-style: normal;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+a:visited {
+  color: #000000;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+a:hover {
+  color: #073269;
+  text-decoration: none;
+  font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+/** CUSTOM DESIGN OF LINKS WHICH ARE ADDED IN POSTS MANUALLY*/
+a.content-link {
   color: #000000;
   text-decoration: none;
   font-style: normal;
@@ -93,12 +111,12 @@ a {
   border-bottom: 2px solid #686868;
 }
 
-a:visited {
+a.content-link:visited {
   color: #000000;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
-a:hover {
+a.content-link:hover {
   color: #427dca;
   text-decoration: none;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;

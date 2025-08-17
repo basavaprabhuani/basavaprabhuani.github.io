@@ -19,9 +19,3 @@ Trust me when I say that you're insanely lucky to be the READER of such a funny 
 </P>
 <hr>
 <br>
-
-
-
-
-
-

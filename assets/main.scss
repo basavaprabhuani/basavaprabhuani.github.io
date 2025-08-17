@@ -107,8 +107,8 @@ a.content-link {
   text-decoration: none;
   font-style: normal;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-  background-color: #b4b2b3;
-  border-bottom: 2px solid #686868;
+  background-color: #e2e2e2;
+  border-bottom: 2px solid #b9b9b9;
 }
 
 a.content-link:visited {
@@ -117,12 +117,14 @@ a.content-link:visited {
 }
 
 a.content-link:hover {
-  color: #427dca;
+  color: #31b2e6;
   text-decoration: none;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-  background-color: #bebebe;
+  background-color: #ececec;
   border-bottom: 2px solid #828282;
 }
+
+/** End of Link section */
 
 .social-media-list a:hover {
   text-decoration: none;

@@ -57,7 +57,7 @@ Before becoming a physicist, I need to study in a university (I bet you didn't k
 I want to study in MIT, because that's the place where problems are solved, and innovations are made. I'm not saying stuff like that doesn't happen in other universities, but it's at MIT, where you get to collaborate with people of various backgrounds and therefore have fresh thoughts and ideas on solving the world's problems. <br>To be completely honest, that's not all that inspires me-it's also the pride of being able to study in #1 University of the world, by being the best-of-the-best. 
 </p>
 <br>
-<p>Further, in this website of mine, I will be consistently adding new stuff about things that I discover-primarily regarding Science & Math, and computer-science as well, to some extent, and you can find these posts in-you guessed it-the Posts page.</p>
+<p>Further, in this website of mine, I will be consistently adding new stuff about things that I discover-primarily regarding Science & Math, and computer-science as well, to some extent, and you can find these posts in-you guessed it-the <i>Posts</i> section at the end of the<a href="https://basavaprabhuani.github.io/">Home page.</a></p>
 <br>
 <hr>
 <br>

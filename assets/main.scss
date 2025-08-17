@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 /** Links */
 a {
   color: #005baf;
-  text-decoration: underline;
+  text-decoration: none;
   font-style: normal;
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
@@ -98,7 +98,7 @@ a:visited {
 }
 a:hover {
   color: #005baf;
-  text-decoration: underline;
+  text-decoration: none;
   font-family: 'Lucida Handwriting', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 .social-media-list a:hover {

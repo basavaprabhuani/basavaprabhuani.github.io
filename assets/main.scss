@@ -124,7 +124,7 @@ a.content-link:hover {
   border-bottom: 2px solid #828282;
 }
 
-li {
+/** li {
   
 }
 /** End of Link section */
@@ -136,6 +136,11 @@ li {
 .social-media-list a:hover .username {
   text-decoration: none;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+/** Video */
+video {
+  width: 100%;
+  height: auto;
 }
 
 /** Blockquotes */

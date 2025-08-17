@@ -101,6 +101,9 @@ a:hover {
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
+a.post-link::after {
+  content: " 🔗";
+}
 /** CUSTOM DESIGN OF LINKS WHICH ARE ADDED IN POSTS MANUALLY*/
 a.content-link {
   color: #000000;
@@ -132,6 +135,23 @@ a.content-link::after {
   
 }
 /** End of Link section */
+
+p.rss-subscribe {
+  color: #828282;
+}
+
+ul.post-list::after {
+  content: "";
+  display: block;
+  height: 1px;                /* line thickness */
+  background-color: #ccc;      /* line color */
+  margin: 1em 0;
+}
+
+a[href="/feed.xml"] {
+  text-decoration: underline;
+  color:#828282  
+}
 
 .social-media-list a:hover {
   text-decoration: none;

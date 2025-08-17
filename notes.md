@@ -1,5 +1,10 @@
 ```diff
 
++ADD BUSY BEE EMOTICON AS LOGO TO THE PAGE 
++ADD TRAFFIC COUNTER FOR EACH PAGE/POST 
+
++Learn VSC Debugging
+
 !Functions and Meanings of all the files: 
 -    _config.yml:
 +       Deals with the entire layout and backbone of the website. Controls certain variables, like 'email, X id', etc. Controls the theme, layout, title, font, etc. 
@@ -15,7 +20,6 @@
     
 -    _site and .gitignore: 
 +        DON'T MESS WITH THESE FILES, THESE CANNOT BE CONTROLLED 
-
  
 !Commands of GitBash: 
 -    cd {insert/file/location/here}:
@@ -31,4 +35,6 @@ The actual styling logic lives in root/assets/main.scss, and Jekyll automaticall
 So although the HTML links to /assets/main.css, the source of truth is main.scss in the root-level assets/ folder.
 
 ✅ You only ever need to edit main.scss — Jekyll takes care of the rest.
+
+-   Use (class="content-link") to add links in posts/pages because the formatting for manually-added links is different. 
 

@@ -420,6 +420,20 @@ table td {
   font-size: 24px;
 }
 
+.project-title {
+  font-size: 32px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.project-title::after{
+  content: "";
+  display: block;
+  height: 1px;                /* line thickness */
+  background-color: #ccc;      /* line color */
+  margin: 1em 0;
+}
+
 /** Posts */
 .post-header {
   margin-bottom: 30px;
@@ -429,6 +443,7 @@ table td {
   letter-spacing: -1px;
   line-height: 1;
 }
+
 @media screen and (max-width: 800px) {
   .post-title {
     font-size: 28px;

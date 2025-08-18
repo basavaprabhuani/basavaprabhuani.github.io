@@ -445,6 +445,14 @@ table td {
   line-height: 1;
 }
 
+.post-title::after {
+  content: "";
+  white-space: pre;
+  display: block;
+  margin: 1em 0;
+  border-bottom: 2px solid #ccc;
+} 
+
 @media screen and (max-width: 800px) {
   .post-title {
     font-size: 28px;

@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /aboutme
 ---
-<hr><br><p>I like to think of 06/07/2010 as the day on which a legend (hopefully) was born; 'cuz that's when I was born 😊.</p>
+<p>I like to think of 06/07/2010 as the day on which a legend (hopefully) was born; 'cuz that's when I was born 😊.</p>
 <p style="text-align: justify;">
 I spend a major part of my time (more than 60%) in academics-the usual (and boring) school, but mostly FUN Science & Math. While I find Science & Math highly entertaining, unfortunately "that's not everything in life". So, to pass my time while having fun and educating myself at the same time, I do many other things as well, which brings us to the topic of my hobbies.
 </p>

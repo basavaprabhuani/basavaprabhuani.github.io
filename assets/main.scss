@@ -7,6 +7,12 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+span.reference-text {
+  font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  color: #000000;
+  background-color: #ebe9e9;
+}
+
 p {
   margin: 0;
   padding: 0;

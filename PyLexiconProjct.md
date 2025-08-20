@@ -13,7 +13,7 @@ permalink: /projects/pylexicon
     <figcaption>Video (at 3x) showing the working of PyLexicon </figcaption>
 </figure>
 <p>Watch on YouTube <a href="https://www.youtube.com/watch?v=1SiDIR2XgSQ" class="content-link">here</a></p>
-z
+
 <p>As seen in the video, the basic function of this program is to <br>1. take in a list of words, <br>2. Take each of those words and fetch information about those words from Merriam Webster, then finally, <br>3. Organize the info for all those words, and export that into an excel file.</p>
 <br><hr><br><h3>GitHub Repo</h3>
 <p>View the GitHub repository for the program on  <a href="https://github.com/basavaprabhuani/PyLexicon" class="content-link">here</a></p>

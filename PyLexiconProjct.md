@@ -10,7 +10,7 @@ permalink: /projects/pylexicon
         <source src="/media/PyLexicon_Demo.mp4" type="video/mp4">
         Error with browser: Does not support video.
     </video>
-    <figcaption>Video showing the working of PyLexicon </figcaption>
+    <figcaption>Video (at 3x) showing the working of PyLexicon </figcaption>
 </figure>
 <p>Watch on YouTube <a href="https://www.youtube.com/watch?v=1SiDIR2XgSQ" class="content-link">here</a></p>
 z

@@ -19,3 +19,7 @@ Trust me when I say that you're insanely lucky to be the READER of such a funny 
 </P>
 <hr>
 <br>
+
+<script>
+    fetch('https://api.countapi.xyz/hit/basavaprabhuani.github.io/visits');
+</script>

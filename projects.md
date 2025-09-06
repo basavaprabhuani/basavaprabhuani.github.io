@@ -7,5 +7,6 @@ permalink: /projects
 <p>So dive in, click around, and enjoy the journey!</p>
 <ol>
 <li class="project-links"><a href="https://basavaprabhuani.github.io/projects/pylexicon" class="content-link">PyLexicon</a></li>
+<li class="project-links"><a href="https://basavaprabhuani.github.io/projects/jekyll_static_site" class="content-link">This Site</a></li>
 </ol>
 

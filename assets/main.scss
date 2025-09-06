@@ -176,6 +176,7 @@ a[href="/feed.xml"] {
   text-decoration: none;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
+
 /** Video */
 video {
   width: 100%;
@@ -366,12 +367,21 @@ table td {
 }
 .footer-heading {
   font-size: 18px;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
+
+ul.contact-list li:not(:last-child) {
+  margin-bottom: 7px;
+}
+
 .contact-list, .social-media-list {
   list-style: none;
   margin-left: 0;
+  color: rgb(10, 94, 150);
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  text-align: justify;
 }
+
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
@@ -383,14 +393,33 @@ table td {
   padding-left: 15px;
 }
 .footer-col-1 {
-  width: calc(35% - (30px / 2));
+  margin-bottom: 0px;
 }
+
+li.p-name {
+  display: none;
+}
+
 .footer-col-2 {
-  width: calc(20% - (30px / 2));
+  margin-top: 0px;
+  width: 100%;
+  text-align: center;
 }
 .footer-col-3 {
-  width: calc(45% - (30px / 2));
+  margin-top: 5px;
+  width: 100%;
+  text-align: center; /* optional */
+  text-decoration: none;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
+
+.footer-col-2::after{
+  content: "";
+  display: block;
+  height: 1px;                /* line thickness */
+  background-color: #ccc;      /* line color */
+}
+
 @media screen and (max-width: 800px) {
   .footer-col-1, .footer-col-2 {
     width: calc(50% - (30px / 2));

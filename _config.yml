@@ -23,14 +23,14 @@ header_pages:
   - projects.md
 
 title: Basavaprabhu's Portfolio and Science Blog
-#email: basavaprabhu.ani@gmail.com
+email: 📧 basavaprabhu.ani@gmail.com
 
 description: | 
   © 2025 Basavaprabhu Ani
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://basavaprabhuani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#github_username:  basavaprabhuani
+github_username:  basavaprabhuani
 
 # Build settings
 theme: minima

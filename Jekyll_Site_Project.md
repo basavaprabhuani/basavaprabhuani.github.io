@@ -26,6 +26,30 @@ permalink: /projects/jekyll-static-site
     <img src="media/Boilerplate_vs_Version-BP.png">
     <figcaption>Image showing difference between the two versions</figcaption>
 </figure>
+<p>Apart from the addition of content, you can see that the format of text has changed a lot - the style of links, font of the text, headings, etc. While there is not a major change or a turnaround of the entire layout, these changes are still noticeable, I feel.</p>
+<p>The way I did this, was by modifying the central styling unit - The CSS file for the site. I copied all of the CSS into my version of the CSS, and modified the attributes of the font, links, etc., accordingly. This demanded my knowledge of using CSS, making efficient usage of the features, like id's, and classes of tags.</p>
+<p>Jekyll does provide other built-in themes as well, however, I didn't find them visually appealing, or suitable to the tone of my blog.</p>
+<p>Most of this designing/styling stuff required my thinking, since I had to know CSS to code it, and also understand how the different files were interlinked with each other; like how HTML files inside the site integrated with the CSS, and how to alter the links to the CSS, and stuff.</p>
+<p>Speaking of HTML, even though Jekyll auto-converts text into HTML by itself, I still needed to know some HTML, to add images, videos, make text italic or bold, or add links, while classifying or designating each piece of special text its formatting - again, using classes to integrate with the CSS Styling. Also, I needed to be able to navigate through the various elements of Jekyll's default HTML code, to move around the text to MY DESIRED LOCATION rather than the predefined location of the text - like the location of e-mail ID, GitHub Link, etc.</p>
+
+<br><hr><br><h3>What I learned (still am)</h3>
+<p>Throughout the journey of building this project, I have learned:</p>
+<ul>
+    <li>Working with Jekyll</li>
+    <li>Various features of CSS, and the attributes to tags</li>
+    <li>Deeper acquitance with using GitHub</li>
+    <li>Using Microsoft VS Code effectively to work with GitHub</li>
+    <li>Working with <span class='reference-text'>git-bash</span></li>
+</ul>
+
+<br><hr><br><h3>Review & Reflect</h3>
+<p>This project was more than just putting words on a webpage — it was my first real experience with setting up and customizing a personal site using GitHub Pages and Jekyll. I got to learn how static site generators work, how themes and layouts can be tweaked, and how even small edits in Markdown or HTML can transform the look and feel of the site.</p>
+<p>The process taught me patience: figuring out configuration files, understanding Jekyll’s structure, and getting the site to display exactly how I wanted wasn’t always straightforward. But it also showed me how powerful and accessible these tools are — with just version control and a bit of persistence, I was able to create a live site from scratch.</p>
+<p>More than a technical exercise, this project gave me a place to showcase my work and ideas in a clean, organized way. It reminded me that building a digital presence is just as important as writing code, and that every iteration makes the site a little better.</p>
+<p>Looking ahead, I see this as the foundation for something bigger. Whether it’s documenting projects, writing blogs, or experimenting with new designs, this site will keep evolving along with my skills. I’m excited to keep exploring web development, automation, and customization, and to use this platform as both a portfolio and a playground for growth.</p>
+<br><hr>
+
+
 
 
 

@@ -23,7 +23,7 @@ permalink: /projects/jekyll-static-site
 <p>While the boilerplate required no custom work from me, whatever after setting up of the layout has been done by myself, be it the content (obviously), the format, the style of font, links, etc., has been done by myself which actually required my active involvement and processing of information and working around the CSS Styling.</p>
 <p>Here is the image showing the comparison between the boilerplate Jekyll site and my version:</p>
 <figure>
-    <img src="media/Boilerplate_vs_Version-BP.png">
+    <img src="/media/Boilerplate_vs_Version-BP.png">
     <figcaption>Image showing difference between the two versions</figcaption>
 </figure>
 <p>Apart from the addition of content, you can see that the format of text has changed a lot - the style of links, font of the text, headings, etc. While there is not a major change or a turnaround of the entire layout, these changes are still noticeable, I feel.</p>

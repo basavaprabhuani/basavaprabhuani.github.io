@@ -8,5 +8,6 @@ permalink: /projects
 <ol>
 <li class="project-links"><a href="https://basavaprabhuani.github.io/projects/pylexicon" class="content-link">PyLexicon</a></li>
 <li class="project-links"><a href="https://basavaprabhuani.github.io/projects/jekyll-static-site" class="content-link">This Site</a></li>
+<li class="project-links"><a href="http://localhost:4000/projects/jekyll-static-site" class="content-link">This SiteLOCAL</a></li>
 </ol>
 

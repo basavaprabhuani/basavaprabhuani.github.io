@@ -20,13 +20,11 @@ Trust me when I say that you're insanely lucky to be the READER of such a funny 
 <hr>
 <br>
 
-<h2 class="post-list-heading">Projects</h2>
-<ul class='post-list'>
+<h2 class="project-list-heading">Projects</h2>
+<ul class='project-list'>
 <li></li>
-<li><a class='post-link' href="https://basavaprabhuani.github.io/projects/pytellurion">-- PyTellurion</a></li>
-<li><a class='post-link' href="https://basavaprabhuani.github.io/projects/pylexicon">-- PyLexicon</a></li>
-<li><a class='post-link' href="https://basavaprabhuani.github.io/projects/jekyll-static-site">-- Jekyll Site</a></li>
-<li><a class='post-link-end' href="https://basavaprabhuani.github.io/projects/jekyll-static-site">....</a></li>
-<p class='see-all'>Click <a href="https://basavaprabhuani.github.io/projects" class='see-all'>here</a> to see all projects</p>
+<li><span class="post-meta">Sep 30, 2025</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/pytellurion">PyTellurion</a></li>
+<li><span class="post-meta">Sep 10, 2025</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/pylexicon">PyLexicon</a></li>
+<li><span class="post-meta">Aug 10, 2025</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/jekyll-static-site">Jekyll Site</a></li>
 </ul>
 <br>

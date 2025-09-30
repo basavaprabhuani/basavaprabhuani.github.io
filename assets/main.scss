@@ -166,11 +166,31 @@ p.rss-subscribe {
 }
 
 ul.post-list::after {
-  content: "";
-  display: block;
-  height: 1px;                /* line thickness */
-  background-color: #ccc;      /* line color */
-  margin: 1em 0;
+  content: "see Posts page for all posts";
+  display: block;           /* full-width block so the line spans across */
+  width: 100%;
+  text-align: justify;       /* center the text */
+  margin: 1rem 0;           /* space above/below the whole block */
+  padding-bottom: .5rem;    /* distance between text and line */
+  border-bottom: 1px solid #ccc; /* the line appears below the text */
+  box-sizing: border-box;
+  color: #828282;    /* pick your color */
+  font-size: 1rem;
+  margin-bottom: 40px;
+}
+
+ul.project-list::after {
+  content: "see Projects page for all projects";
+  display: block;           /* full-width block so the line spans across */
+  width: 100%;
+  text-align: justify;       /* center the text */
+  margin: 1rem 0;           /* space above/below the whole block */
+  padding-bottom: .5rem;    /* distance between text and line */
+  border-bottom: 1px solid #ccc; /* the line appears below the text */
+  box-sizing: border-box;
+  color: #828282;    /* pick your color */
+  font-size: 1rem;
+  // margin-bottom: ;
 }
 
 a[href="/feed.xml"] {
@@ -457,13 +477,27 @@ li.p-name {
 .post-list-heading {
   font-size: 28px;
 }
+
+.project-list-heading {
+  font-size: 28px;
+}
+
 .post-list {
   margin-left: 0;
   list-style: none;
 }
+.project-list {
+  margin-left: 0;
+  list-style: none;
+}
+
 .post-list > li {
   margin-bottom: 30px;
 }
+.project-list > li {
+  margin-bottom: 30px;
+}
+
 .post-meta {
   font-size: 14px;
   color: #828282;

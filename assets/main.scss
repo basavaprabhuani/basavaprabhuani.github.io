@@ -149,6 +149,16 @@ li.project-links {
   margin-bottom: 15px;
 }
 
+a.see-all {
+  color: #828282;
+  text-decoration: underline;
+  font-size: 20;
+}
+
+p.see-all {
+  color: #828282;
+}
+
 /** End of Link section */
 
 p.rss-subscribe {
@@ -462,7 +472,10 @@ li.p-name {
   display: block;
   font-size: 24px;
 }
-
+.post-link-end {
+  display: block;
+  font-size: 24px;
+}
 .project-title {
   font-size: 32px;
   letter-spacing: -1px;

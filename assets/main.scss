@@ -166,7 +166,7 @@ p.rss-subscribe {
 }
 
 ul.post-list::after {
-  content: "see Posts page for all posts";
+  content: ".....see Posts page for all posts";
   display: block;           /* full-width block so the line spans across */
   width: 100%;
   text-align: justify;       /* center the text */
@@ -180,7 +180,7 @@ ul.post-list::after {
 }
 
 ul.project-list::after {
-  content: "see Projects page for all projects";
+  content: ".....see Projects page for all projects";
   display: block;           /* full-width block so the line spans across */
   width: 100%;
   text-align: justify;       /* center the text */

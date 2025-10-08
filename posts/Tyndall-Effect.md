@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A Heist, Laser, & Science
-date: 2025-08-16 00:00:00 +0530
-categories: Science Physics
+permalink: /posts/science/physics/2025/08/16/Tyndall-Effect.html
 ---
 <p>Wondering the reason for the weird title? You're not alone. Well, watch this video first:</p><br>
 <figure>

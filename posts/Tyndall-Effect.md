@@ -17,7 +17,7 @@ Yup, Science. </p>
 
 <p>You couldn't have not noticed in the clip, what happens after Gru blows baby powder. He blows the powder, and the laser reveals itself. Fiction/Magic? Nah; Science 💪.</p>
 <p>
-Okay, so this phenomenon is ubiquitous. You might have noticed the same in rave parties, or during a night in a dusty location with headlights of cars on - the path of light is visible, like this: <br>
+This phenomenon is ubiquitous. You might have noticed the same in rave parties, or during a night in a dusty location with headlights of cars on - the path of light is visible, like this: <br>
 <figure>
     <img src="/media/Post_TyndallE.png">
     <figcaption>Image showing visible path of light</figcaption>

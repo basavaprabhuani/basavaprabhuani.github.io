@@ -1,8 +1,9 @@
 ---
 layout: page
 title: A Heist, Laser, & Science
-permalink: /posts/science/physics/2025/08/16/Tyndall-Effect.html
+permalink: /science/physics/2025/08/16/Tyndall-Effect.html
 ---
+
 <p>Wondering the reason for the weird title? You're not alone. Well, watch this video first:</p><br>
 <figure>
     <video controls>

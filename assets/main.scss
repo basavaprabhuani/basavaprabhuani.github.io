@@ -68,8 +68,12 @@ img {
 }
 
 /** Figures */
+.container {
+  text-align: center;
+}
+
 figure > img {
-  display: block;
+  display: inline-block;
 }
 
 figcaption {

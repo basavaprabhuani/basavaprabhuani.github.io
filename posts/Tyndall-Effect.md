@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: A Heist, Laser, & Science
 permalink: /posts/science/physics/2025/08/16/Tyndall-Effect.html
 ---

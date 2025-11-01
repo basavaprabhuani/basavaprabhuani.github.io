@@ -28,6 +28,32 @@ p {
   text-align: justify;
 }
 
+caption, table {
+  margin: 0;
+  padding: 0;
+  color: rgb(10, 94, 150);
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  text-align: center;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+  color: black;
+  font: normal 1.21em KaTeX_Main,Times New Roman,serif;
+  text-align: center;
+  // font-weight: bold;
+}
+
+.number {
+  margin: 0;
+  padding: 0;
+  color:rgb(10, 94, 150);
+  font: normal 1.21em KaTeX_Main,Times New Roman,serif;
+  text-align: center;
+  // font-weight: bold;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   color: rgb(0, 0, 0);

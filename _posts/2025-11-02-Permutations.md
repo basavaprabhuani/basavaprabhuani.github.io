@@ -8,7 +8,7 @@ categories: Mathematics Combinatorics
 <p>Get the context by watching the video: </p><br>
 <figure>
     <video controls>
-        <source src="/media/rayla_lucky.mp4.mp4" type="video/mp4">
+        <source src="/media/rayla_lucky_vid.mp4" type="video/mp4">
         Error with browser: Does not support video.
     </video>
     <figcaption>A scene from The Dragon Prince</figcaption>

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: Ever Seen a Blue Sunset/Sunrise? 
-date: 2025-08-29 00:00:00 +0530
-categories: Science Physics
+permalink: /science/physics/2025/08/28/Rayleigh-Scattering.html
 ---
+
 <figure>
     <img src="/media/sunset.png">
     <figcaption>Image of a Sunset</figcaption>

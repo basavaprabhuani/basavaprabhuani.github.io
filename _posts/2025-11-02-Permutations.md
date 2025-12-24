@@ -113,6 +113,7 @@ Mathematically:</p>
 <p>There we go! A total of <text class="number">185,794,560</text> possible permutations, and Rayla unlocked the secret opening within a matter of <text class="number">15</text> seconds. If this is not lucky, I don't know what is. And in addition to my two theories above, here's a third one, based on this: <b>(iii) Rayla had a time machine which she used to rewind time over and over again until she opened the lock.</b> </p>
 
 <br>
+
 <hr><br>
 
 <p>So, to sum it up: either Rayla is impossibly lucky, or probability decided to take a personal day. In any case, I’ll stick to math (and science)— it’s the only thing that doesn’t depend on jelly consistency. And I'm second-guessing: Rayla didn’t just get lucky—she looked Probability dead in the eye and said, “Move.” And Probability did. Somewhere, a statistician just screamed into a pillow.</p>

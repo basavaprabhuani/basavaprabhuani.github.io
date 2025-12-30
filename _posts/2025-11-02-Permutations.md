@@ -13,6 +13,7 @@ categories: Mathematics Combinatorics
     </video>
     <figcaption>A scene from The Dragon Prince</figcaption>
 </figure>
+
 <br>
 
 <p>As seen in the video, Ezran (the little kid) presses a bunch of stones on a wall, while calling it a Stone or a Rock (what's the difference anyway, though?). Don't call me acerbic, but I must say, it is amusing to watch him be intelligent enough to remember that combination along with stone/rock, but not smart or hygienic enough to wipe off or AT LEAST lick off the jelly on his hands. UGH! <br>Coming back to the story, we see Rayla (the elf) effortlessly cracking the combination, allegedly by "pressing all the stones with jelly handprints". If that's so, then there are only two explanations: <b>(i) The security to that secret chamber is compromised </b>as hell, which is unlikely, or <b>(ii) Rayla got handsomely lucky</b> (or beautifully lucky, in her case).</p>

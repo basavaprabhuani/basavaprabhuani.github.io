@@ -24,7 +24,7 @@ categories: Robotics Arduino
 
 <p>These are just a few points which I noticed when I was learning basic <span class="reference-text">C++</span>. It would not be hyperbolic to assume many more complications in more advanced <span class="reference-text">C++</span> (at this point, I think the 'C' in <span class="reference-text">C++</span> stands for 'crappy' 😂). Call me whiny, but Python's way better. </p>
 <hr><br><p>
-Now back to Arduino; So yes, I was now ready to start learning Arduino (boy, does this sound like a lot of hard work just to begin learning Arduino 💦). <br> I'll be honest, I spent the first two days just connecting LEDs, pretending I'm doing development in cutting-edge tech and writing code to just light it up, and blinking the LEDs. But as time went on, I started going through each part in my kit and the documentation to use the part. As of now (29th Dec 2025), I have learnt using these parts: 
+Now back to Arduino; So yes, I was now ready to start learning Arduino (boy, does this sound like a lot of hard work just to begin learning Arduino 💦). <br> I'll be honest, I spent the first two days just connecting LEDs, pretending I'm doing development in cutting-edge tech and writing code to just light it up, and blinking the LEDs. But as time went on, I started going through each part in my kit and the documentation to use the part. As of now (28th Dec 2025), I have learnt using these parts: 
 <ul>
 <li>LED</li>
 <li>Potentiometer</li>

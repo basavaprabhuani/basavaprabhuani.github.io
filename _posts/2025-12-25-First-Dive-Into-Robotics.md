@@ -36,17 +36,9 @@ Now back to Arduino; So yes, I was now ready to start learning Arduino (boy, doe
 </p>
 <p>
 Here's a tiny clip showing a very tiny I-Don't-Know-What-To-Call-It I built, using LEDs, Button and very basic coding:
-<p>Get the context by watching the video: </p><br>
-<figure>
-    <video controls>
-        <source src="/media/Arduino_fun_1.mp4" type="video/mp4">
-        Error with browser: Does not support video.
-    </video>
-    <!-- <figcaption></figcaption> -->
-</figure>
-
+<a href="https://www.youtube.com/watch?v=cbpr7z2l0JU" class="content-link">Watch the Video Here</a>
 </p>
-<br>
+
 <p>Code for the I-Don't-Know-What-To-Call-It:
 <br>
 <pre><code>

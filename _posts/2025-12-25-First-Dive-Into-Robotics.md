@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Dive Into Robotics
-date: 2025-12-24 00:00:00 +0530
+date: 2025-12-29 00:00:00 +0530
 categories: Robotics Arduino
 ---
 
@@ -24,7 +24,7 @@ categories: Robotics Arduino
 
 <p>These are just a few points which I noticed when I was learning basic <span class="reference-text">C++</span>. It would not be hyperbolic to assume many more complications in more advanced <span class="reference-text">C++</span> (at this point, I think the 'C' in <span class="reference-text">C++</span> stands for 'crappy' 😂). Call me whiny, but Python's way better. </p>
 <hr><br><p>
-Now back to Arduino; So yes, I was now ready to start learning Arduino (boy, does this sound like a lot of hard work just to begin learning Arduino 💦). <br> I'll be honest, I spent the first two days just connecting LEDs, pretending I'm doing development in cutting-edge tech and writing code to just light it up, and blinking the LEDs. But as time went on, I started going through each part in my kit and the documentation to use the part. As of now (30th Dec 2025), I have learnt using these parts: 
+Now back to Arduino; So yes, I was now ready to start learning Arduino (boy, does this sound like a lot of hard work just to begin learning Arduino 💦). <br> I'll be honest, I spent the first two days just connecting LEDs, pretending I'm doing development in cutting-edge tech and writing code to just light it up, and blinking the LEDs. But as time went on, I started going through each part in my kit and the documentation to use the part. As of now (29th Dec 2025), I have learnt using these parts: 
 <ul>
 <li>LED</li>
 <li>Potentiometer</li>
@@ -46,8 +46,32 @@ Here's a tiny clip showing a very tiny I-Don't-Know-What-To-Call-It I built, usi
 </figure>
 
 </p>
+<br>
 <p>Code for the I-Don't-Know-What-To-Call-It:
-
+<br>
+<pre><code>
+int button_reading = 2;
+int led_blue = 7;
+int led_red = 10;<br>
+void setup() {
+  pinMode(button_reading, INPUT);
+  Serial.begin(9600);
+  pinMode(led_blue, OUTPUT);
+  pinMode(led_red, OUTPUT);
+}<br>
+void loop() {
+  int reading = digitalRead(button_reading);
+  Serial.println(reading);
+  if(reading == 1) {
+    digitalWrite(led_blue, HIGH);
+    digitalWrite(led_red, LOW);
+  }
+  else if (reading != 1) {
+    digitalWrite(led_blue, LOW);
+    digitalWrite(led_red, HIGH);
+  }<br>
+}
+</code></pre>
 </p>
 <hr><br>
 <p>
@@ -57,15 +81,16 @@ I could make this after the second attempt, because the first time, I kinda mess
 I aspire to build a more advanced version of this using Liquid Crystal Display (LCD) and a score-board (second LCD), to make this more player-friendly and attractive, after learning to use the particular modules. This version will be posted in the Projects section of the website. </p>
 <hr><br><p>
 Lately, I’ve been so deeply interested that I end up spending hours with the board and components, needing an alarm to remind me to stop and go to sleep <lol>. Of all the stuff, the thing that is most interesting to me right now, is me discovering new kinds of outputs from different components, and just imagining their uses/applications in my future projects. 
-Once I understand at least 50% of all the components in the kit, I'll seriously start building real, useful and meaningful projects (and that includes mini-games :wink). 
+Once I understand at least 50% of all the components in the kit, I'll seriously start building real, useful and meaningful projects (and that includes mini-games 😜). 
 </p>
 
 <hr><br>
 
-<h3>Links:</h3>
+<h3>Links 🔗 </h3>
 <p>Arduino kit that I purchased: <a href=https://www.amazon.in/dp/B0FVXW6K2T class="content-link">Kit</a> <br><br>
 Documentation to get started with electronics and uses via examples: <a href=https://docs.arduino.cc/built-in-examples/ class="content-link">Arduino Docs</a><br><br>
 Information about the board and technical details: <a href=https://docs.arduino.cc/learn/ class=content-link>About the Board</a> </p>
+<hr>
 
 
 

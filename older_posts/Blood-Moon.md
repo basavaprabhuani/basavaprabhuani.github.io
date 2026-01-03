@@ -1,9 +1,9 @@
 ---
-layout: post
-title: The Blood Moon
-date: 2025-09-13 00:00:00 +0530
-categories: Science Physics
+layout: page
+title: The Blood Moon 
+permalink: /science/physics/2025/09/12/Blood-Moon.html
 ---
+
 <p>The Blood Moon - the astounding form of the moon we see during total lunar eclipses, i.e., when the Earth is between the Sun and the Moon, in such a way that it covers the moon completely, thus casting the Earth's shadow on the moon. The very supernatural-seeming, uncanny color of the moon. Not gonna lie, it does seem pretty scary, but in a beautiful way.</p>
 <figure>
     <img src="/media/blood_moon.png">

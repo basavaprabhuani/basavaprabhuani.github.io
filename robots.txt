@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basavaprabhuani.github.io/sitemap.xml

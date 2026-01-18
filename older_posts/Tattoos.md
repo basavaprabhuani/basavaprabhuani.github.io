@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Where Ink Meets Flesh
-date: 2025-10-05 00:00:00 +0530
-categories: Science Biology 
+layout: page
+title: Where Ink Meets Flesh 
+permalink: /science/biology/2025/10/05/Blood-Moon.html
 ---
 
 <p>Woah, dramatic title there - don't worry, it's about - if you haven't guessed yet - tattoos.<br>I wouldn't regret getting a tattoo, one bit. I don't care what you think. One day, when I grow up, I'm gonna cover my arms, chest and back with tattoos (assuming me getting tattoos wouldn't affect my profession). </p>

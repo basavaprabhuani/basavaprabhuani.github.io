@@ -4,7 +4,7 @@ title: Basavaprabhu's Portfolio and Science Blog
 email: basavaprabhu.ani@gmail.com
 
 description: |
-  © 2025 Basavaprabhu Ani
+  © 2026 Basavaprabhu Ani
 
 theme: minima
 markdown: GFM
@@ -13,6 +13,7 @@ header_pages:
   - aboutme.md
   - projects.md
   - posts.md
+  - bucket_list.md
 
 plugins:
   - jekyll-feed

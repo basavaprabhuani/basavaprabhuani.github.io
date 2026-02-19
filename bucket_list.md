@@ -8,6 +8,6 @@ permalink: /bucketlist
 
 <p>
 <ol>
-<li class="project-links"><a href="https://basavaprabhuani.github.io/bucketlist/norway_series">A series of events inexplicable through a single point</a></li>
+<li class="project-links"><a href="https://basavaprabhuani.github.io/bucketlist/norway_series" class='content-link'>A series of events inexplicable through a single point</a></li>
 </ol>
 </p>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: &#35; 1 on the Bucket List
+title: No. 1 on the Bucket List
 permalink: /bucketlist/norway
 ---
 <p>
-Okay, first off I'll admit it that it's weird for me to explain a bucket-list goal of my life. It's usually just a simple thing like "Play in a beach for an entire day" or something shorter, most commonly. But not the first thing on my list!
+Okay, first off I'll admit it that it's weird for me to <i>explain</i> a bucket-list goal of my life. It's usually just a simple thing like "Play in a beach for an entire day" or something shorter, most commonly. But not the first thing on my list!
 </p>
 <p>It's a combo; a wild one at that -->
 <ol>

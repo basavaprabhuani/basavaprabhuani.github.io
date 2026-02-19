@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #1 on the Bucket List
+title: &#35;1 on the Bucket List
 permalink: /bucketlist/norway
 ---
 <p>

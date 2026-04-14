@@ -26,8 +26,43 @@ permalink: /projects/proximity_sensor
 <br><hr><br><h3>How I built It</h3>
 <p>The code was written, entirely in C++ of Arduino (with its own functions, and stuff for the components).</p>
 <ul>
-<li>The first part (version) was the simplest one. All I had to do was calculate the distance, and display it in the LCD. <br>The ultrasonic sensor sends out pulses, and measures the time it took for it to receive it back after echoing. Using this time, I could calculate the distance The formula is $$
-\text{Distance} = \frac{\text{Time} \times \text{Speed of Sound}}{2}
-$$ </li>
+<li>The first part (version) was the simplest one. All I had to do was calculate the distance, and display it in the LCD. <br>The ultrasonic sensor sends out pulses, and measures the time it took for it to receive it back after echoing. Using this time, I could calculate the distance using the speed-distance formula. <br>The formula for speed is: <br>$$\text{Speed}=\frac{\text{Distance}}{\text{Time}}$$
+So, $$\text{Distance}=\text{Speed}\times \text{Time} $$
+Since the pulse has to travel <b>twice</b> the distance (first traveling once, then twice to come back after echo), 
+$$\text{Distance}\times 2=\text{Speed}\times \text{Time}$$
+$$\text{Distance}=\frac{\text{Speed}\times \text{Time}}{2} $$
+And voila! That's the equation I used to calculate the distance. 
+
+I used the speed of sound to be $343ms^{-1}$, and the time it took was obtained using the ultrasonic sensor's reading, given by this part of the code: 
+{% highlight arduino %}
+void loop() {
+  // Ultrasonic trigger
+  digitalWrite(TRIG, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG, LOW);
+
+  float time_twice = pulseIn(ECHO, HIGH, 100000);
+{% endhighlight %}
+
+The distance is then calculated using:
+{% highlight arduino %}
+float distance = time_twice * 0.0343 / 2;
+{% endhighlight %}
+
+This reading is printed on the LCD using this code: 
+{% highlight arduino %}
+// LCD DISPLAY
+
+  // Row 0 → Distance
+  display.setCursor(0, 0);
+  display.print("Dist.: ");
+  display.print(distance);
+  display.print("   "); // clear leftover digits
+{% endhighlight %}
+
+</li>
+
 </ul>
 

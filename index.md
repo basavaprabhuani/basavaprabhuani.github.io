@@ -23,8 +23,9 @@ Trust me when I say that you're insanely lucky to be the READER of such a funny 
 <h2 class="project-list-heading">Projects</h2>
 <ul class='project-list'>
 <li></li>
+<li><span class="post-meta">Apr 15, 2026</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/proximity_sensor">PyTellurion</a></li>
 <li><span class="post-meta">Sep 30, 2025</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/pytellurion">PyTellurion</a></li>
 <li><span class="post-meta">Sep 10, 2025</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/pylexicon">PyLexicon</a></li>
-<li><span class="post-meta">Aug 10, 2025</span><a class='post-link' href="https://basavaprabhuani.github.io/projects/jekyll-static-site">Jekyll Site</a></li>
+
 </ul>
 <br>

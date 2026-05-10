@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: Rayla vs. Probability
-date: 2025-11-02 00:00:00 +0530
-categories: Mathematics Combinatorics 
+permalink: /mathematics/combinatorics/2025/11/01/Permutations.html 
 ---
 
 <p>Get the context by watching the video: </p><br>

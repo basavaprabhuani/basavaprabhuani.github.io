@@ -5,6 +5,7 @@ permalink: /posts
 ---
 <p>Welcome to Posts! This is the collection of all my blog posts, which you see in the homepage under "Posts", if not obvious 😉. </p><p>ALL my posts are listed here, so have fun exploring all of them! (I promise they are amazing)</p>
 <ul>
+<li class="project-links"><a href="https://basavaprabhuani.github.io/education/2026/04/27/AIR.html" class='content-link'>Yo, I Got 98% & Spoke on All India Radio!</a></li>
 <li class="project-links"><a href="https://basavaprabhuani.github.io/education/olympiads/2026/01/17/My-Experience-With-SOF-Exams.html" class='content-link'>My Experience with SOF Exams</a></li>
 <li class="project-links"><a href="https://basavaprabhuani.github.io/robotics/arduino/2025/12/28/First-Dive-Into-Robotics.html" class='content-link'>My First Dive Into Robotics</a></li>
 <li class="project-links"><a href="https://basavaprabhuani.github.io/mathematics/combinatorics/2025/11/01/Permutations.html" class='content-link'>Rayla vs. Probability</a></li>
